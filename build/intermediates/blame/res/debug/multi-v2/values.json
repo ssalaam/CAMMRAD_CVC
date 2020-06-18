@@ -6,56 +6,50 @@
                 {
                     "source": "/Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "53,121",
-                        "endColumns": "67,65",
-                        "endOffsets": "118,184"
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "53,-1",
+                        "endColumns": "42,-1",
+                        "endOffsets": "93,-1"
                     },
                     "to": {
                         "startLines": "14,15",
                         "startColumns": "4,4",
-                        "startOffsets": "511,581",
-                        "endColumns": "69,67",
-                        "endOffsets": "576,644"
+                        "startOffsets": "511,556",
+                        "endColumns": "44,67",
+                        "endOffsets": "551,619"
                     }
                 },
                 {
                     "source": "/Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "21,23,26",
                         "startColumns": "4,4,4",
-                        "startOffsets": "984,1084,1222",
+                        "startOffsets": "959,1059,1197",
                         "endLines": "22,25,29",
                         "endColumns": "8,8,8",
-                        "endOffsets": "1079,1217,1444"
+                        "endOffsets": "1054,1192,1419"
                     }
                 },
                 {
                     "source": "/Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/res/values/values.xml",
                     "from": {
-                        "startLines": "2,5,8,11,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,167,288,394,578,633,703,774,839",
-                        "endLines": "4,7,10,13,15,16,17,18,19",
-                        "endColumns": "23,23,23,23,54,69,70,64,73",
-                        "endOffsets": "162,283,389,506,628,698,769,834,908"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "2,5,8,11,16,17,18,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,167,288,394,649,704,774,845,910",
+                        "startOffsets": "55,167,288,394,624,679,749,820,885",
                         "endLines": "4,7,10,13,16,17,18,19,20",
                         "endColumns": "23,23,23,23,54,69,70,64,73",
-                        "endOffsets": "162,283,389,506,699,769,840,905,979"
+                        "endOffsets": "162,283,389,506,674,744,815,880,954"
                     }
                 }
             ]
