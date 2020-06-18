@@ -1,0 +1,21 @@
+com.juxtopia.cammrad
+array pref_entries_cameraIndex
+array pref_entries_cameraResolution
+array pref_entryValues_cameraIndex
+array pref_entryValues_cameraResolution
+drawable app_banner
+mipmap app_icon
+mipmap app_icon_round
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+string app_name
+string game_view_content_description
+string menuItem_settings
+string prefCategory_title_camera
+string pref_defaultValue_cameraResolution
+string pref_title_cameraIndex
+string pref_title_cameraResolution
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent
+xml preferences

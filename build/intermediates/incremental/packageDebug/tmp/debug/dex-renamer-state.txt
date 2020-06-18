@@ -1,0 +1,4 @@
+#Wed Jun 17 12:53:36 EDT 2020
+base.0=/Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

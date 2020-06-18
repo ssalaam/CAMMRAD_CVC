@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:2:1-17:12
+MERGED from [:support-v4-23.3.0:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/838701ef53e2ab3eb2449808b1080d3e/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:70-100
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:2:101-141
+application
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:3:3-18:17
+MERGED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:11:5-15:19
+MERGED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:11:5-15:19
+MERGED from [:support-v4-23.3.0:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/838701ef53e2ab3eb2449808b1080d3e/AndroidManifest.xml:22:5-20
+MERGED from [:support-v4-23.3.0:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/838701ef53e2ab3eb2449808b1080d3e/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:3:16-48
+	android:allowBackup
+		ADDED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:3:109-140
+	android:banner
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:3:71-108
+	android:isGame
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:3:49-70
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:4:5-12:16
+	android:screenOrientation
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:4:102-139
+	android:label
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:4:69-101
+	android:configChanges
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:4:140-297
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:4:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:5:7-9:23
+action#android.intent.action.MAIN
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:6:9-61
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:6:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:7:9-69
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:7:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:8:9-78
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:8:19-75
+meta-data#android.app.lib_name
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:10:7-78
+	android:value
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:10:54-75
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:10:18-53
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:11:7-96
+	android:value
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:11:73-93
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:11:18-72
+activity#org.artoolkit.ar.base.camera.CameraPreferencesActivity
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:13:5-14:16
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:13:15-84
+meta-data#unity.build-id
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:17:16-50
+uses-permission#android.permission.CAMERA
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:19:3-63
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:19:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:20:3-65
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:20:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:21:3-77
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:21:20-74
+uses-feature#android.hardware.camera.any
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:22:3-62
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:22:17-59
+uses-feature#android.hardware.camera
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:23:3-83
+	android:required
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:23:56-80
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:23:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:24:3-93
+	android:required
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:24:66-90
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:24:17-65
+uses-feature#0x00020000
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:25:3-52
+	android:glEsVersion
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:25:17-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:26:3-79
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:26:20-76
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:27:3-88
+	android:required
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:27:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:28:3-99
+	android:required
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:28:72-96
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:28:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:29:3-108
+	android:required
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:29:81-105
+	android:name
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml:29:17-80
+uses-sdk
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+MERGED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:7:5-9:41
+MERGED from [:ResLib-release:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/2a0231f657f2a53baf09234da3ac6471/AndroidManifest.xml:7:5-9:41
+MERGED from [:support-v4-23.3.0:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/838701ef53e2ab3eb2449808b1080d3e/AndroidManifest.xml:20:5-43
+MERGED from [:support-v4-23.3.0:] /Users/saboor.salaam/.gradle/caches/transforms-2/files-2.1/838701ef53e2ab3eb2449808b1080d3e/AndroidManifest.xml:20:5-43
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		ADDED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
+		INJECTED from /Users/saboor.salaam/Documents/CAMMRAD/ARToolkit Unity Integration Test/src/main/AndroidManifest.xml
